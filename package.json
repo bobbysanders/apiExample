@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "repository": "https://github.com/bobbysanders/apiExample.git",
   "author": "Bobby Sanders, Jr.",
   "license": "ISC",
   "dependencies": {
